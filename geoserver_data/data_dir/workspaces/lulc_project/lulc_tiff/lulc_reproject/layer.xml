@@ -1,0 +1,17 @@
+<layer>
+  <name>lulc_reproject</name>
+  <id>LayerInfoImpl--23a34828:199f1cd843e:-7ffc</id>
+  <type>RASTER</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--ac05454:199f32db490:-747a</id>
+  </defaultStyle>
+  <resource class="coverage">
+    <id>CoverageInfoImpl--23a34828:199f1cd843e:-7ffd</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2025-10-17 11:08:36.491 UTC</dateCreated>
+  <dateModified>2025-10-19 04:40:59.223 UTC</dateModified>
+</layer>

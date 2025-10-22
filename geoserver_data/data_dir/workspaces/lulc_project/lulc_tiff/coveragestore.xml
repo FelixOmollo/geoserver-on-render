@@ -1,0 +1,14 @@
+<coverageStore>
+  <id>CoverageStoreInfoImpl--23a34828:199f1cd843e:-7ffe</id>
+  <name>lulc_tiff</name>
+  <description>Land Use Land Cover classified map for Kajiado County, 2021</description>
+  <type>GeoTIFF</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl--23a34828:199f1cd843e:-8000</id>
+  </workspace>
+  <__default>false</__default>
+  <dateCreated>2025-10-17 11:03:52.559 UTC</dateCreated>
+  <disableOnConnFailure>false</disableOnConnFailure>
+  <url>file://C:/Users/Omollo/Desktop/GIS/FeaturedProjects/lulc_Kajiado/lulc_reproject.tif</url>
+</coverageStore>
